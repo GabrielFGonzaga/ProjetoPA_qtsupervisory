@@ -1,0 +1,1 @@
+# ProjetoPA_qtsupervisory
