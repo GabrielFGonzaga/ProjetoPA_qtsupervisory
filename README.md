@@ -17,11 +17,6 @@ Ele permite que um servidor armazene valores associados a timestamps, enquanto c
   Armazena os valores enviados pelos *Producers* e atende às requisições dos *Consumers*.  
   Pode atender múltiplos clientes simultaneamente.
 
-## Requisitos
-
-- Qt 5.x ou superior (testado com Qt 5.12+)
-- CMake ou qmake
-
 ## Como executar
 
 1. Compile os três programas (Servidor, Producer, Consumer) separadamente usando Qt Creator ou `qmake`/`make`.
